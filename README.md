@@ -8,4 +8,4 @@ I will be back to delete this sentence later. Watch out!
 
 iterating rasters to run statistics on small scales of study region
 
-*UPDATED README*
+*UPDATE README*
